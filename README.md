@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Developer-Studios&layout=compact&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=X-Developer-Studios)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=X-Developer-Studios&repo=Password Manager)](https://github.com/X-Developer-Studios/Password-Manager)
