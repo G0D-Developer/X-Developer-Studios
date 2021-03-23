@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 -->
 
 ![X-Developer-Studio's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Developer-Studios&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Developer-Studios&layout=compact&theme=dark)
