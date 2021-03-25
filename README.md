@@ -15,8 +15,6 @@
 
 ## **⚡ Github Highlights** ##
 
-![GitHub followers](https://img.shields.io/github/followers/X-Developer-Studios?style=social)
-
 ![X-Developer-Studio's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Developer-Studios&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Developer-Studios&layout=compact&theme=dark)
