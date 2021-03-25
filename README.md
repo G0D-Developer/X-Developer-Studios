@@ -19,7 +19,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Developer-Studios&layout=compact&theme=dark)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=X-Developer-Studios&theme=dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=X-Developer-Studios&theme=nord)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=X-Developer-Studios&theme=dark)
 
