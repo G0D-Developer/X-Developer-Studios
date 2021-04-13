@@ -17,7 +17,7 @@
 
 ![X-Developer-Studio's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Developer-Studios&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Developer-Studios&layout=compact&theme=dark)
+![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Developer-Studios&layout=compact&theme=dark)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=X-Developer-Studios&theme=nord)
 
