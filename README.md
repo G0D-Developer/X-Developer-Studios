@@ -11,11 +11,9 @@
 
 🤯 I started coding in first grade (at that time it was Scratch and only Scratch)
 
-##
-
 ## **⚡ Github Highlights** ##
 
-![](https://img.shields.io/badge/Role%20-ADMIN-brightgreen)
+![](https://img.shields.io/badge/Role%20-Pro%20Software%20Dev-blue)
 
 ![X-Developer-Studio's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Developer-Studios&show_icons=true&theme=dark)
 
