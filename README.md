@@ -15,6 +15,8 @@
 
 ## **⚡ Github Highlights** ##
 
+![](https://img.shields.io/badge/Role%20-ADMIN-brightgreen)
+
 ![X-Developer-Studio's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Developer-Studios&show_icons=true&theme=dark)
 
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Developer-Studios&layout=compact&theme=dark)
