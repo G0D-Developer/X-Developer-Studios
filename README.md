@@ -7,7 +7,7 @@
 
 👨🏻‍💻 You can find me on [Replit.com](https://replit.com/@JaydenSavarinat) and [GitHub](http://github.com/X-Developer-Studios)
 
-🌱 Learning javascript
+🌱 Learning Java
 
 🤯 I started coding in first grade (at that time it was Scratch and only Scratch)
 
