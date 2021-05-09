@@ -19,7 +19,7 @@
 
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Developer-Studios&layout=compact&theme=dark)
 
-![X-Developer's github activity graph](https://activity-graph.herokuapp.com/graph?username=X-Developer-Studios&theme=dark)
+![X-Developer's github activity graph](https://activity-graph.herokuapp.com/graph?username=X-Developer-Studios&theme=rogue)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=X-Developer-Studios&theme=nord)
 
