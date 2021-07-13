@@ -1,7 +1,5 @@
 # **X-Developer-Studios** 
 
-![Hello!](https://user-images.githubusercontent.com/75747985/124662999-8512ac00-de77-11eb-8daf-aca52b23f279.gif)
-
 🏫 I go to George H. Moody Middle School and I love to learn new things!
 
 🏏Sometimes, I like to play soccer, basketball, and cricket
