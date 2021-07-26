@@ -8,7 +8,7 @@
 
 🌱 Learning Java
 
-🤯 I started coding in first grade (at that time it was Scratch and only Scratch)
+🤯 I started coding in first grade
 
 ## **⚡ Github Highlights** 
 
