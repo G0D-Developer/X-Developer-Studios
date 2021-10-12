@@ -30,10 +30,11 @@
 
 
 ## **➕ More** 
-Some of my favourite hobbies (excluding coding) include:
+Some of my favorite hobbies (excluding coding) include:
 - [x] Biking 🚲
 - [x] Reading 📚
 - [x] Completing projects 📉
 - [x] Doing homework 📝
 - [x] Drawing ✏
 - [x] Watching YouTube videos 📼
+- [x] Listening to music 🎶 
