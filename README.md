@@ -1,14 +1,14 @@
-# **X-Developer-Studios** 
+# **G0D-Developer** 
 
 🏫 I go to George H. Moody Middle School and I love to learn new things!
 
 🏏Sometimes, I like to play soccer, basketball, and cricket
 
-👨🏻‍💻 You can find me on [Replit.com](https://replit.com/@JaydenSavarinat) and [GitHub](http://github.com/X-Developer-Studios)
+👨🏻‍💻 You can find me on [Replit.com](https://replit.com/@JaydenSavarinat) and [GitHub](http://github.com/G0D-Developer)
 
 🌱 Learning Java
 
-🤯 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
+🤯 ![Profile Views](https://komarev.com/ghpvc/?username=G0D-Developer)
 
 ## **⚡ Github Highlights** 
 
