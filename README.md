@@ -14,11 +14,11 @@
 
 ![](https://img.shields.io/badge/Role%20-Pro%20Software%20Dev-blue)
 
-![X-Developer-Studio's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0D-Developer&show_icons=true&theme=dark)
+![G0D-Developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0D-Developer&show_icons=true&theme=dark)
 
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G0D-Developer&layout=compact&theme=dark)
 
-![X-Developer's github activity graph](https://activity-graph.herokuapp.com/graph?username=G0D-Developer&theme=rogue)
+![G0D-Developer's github activity graph](https://activity-graph.herokuapp.com/graph?username=G0D-Developer&theme=rogue)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=G0D-Developer&theme=nord)
 
