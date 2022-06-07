@@ -8,7 +8,6 @@
 
 🌱 Learning Java
 
-🤯 ![Profile Views](https://komarev.com/ghpvc/?username=G0D-Developer)
 
 ## **⚡ Github Highlights** 
 
