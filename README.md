@@ -1,7 +1,5 @@
 # **G0D-Developer** 
 
-🏫 I go to George H. Moody Middle School and I love to learn new things!
-
 🏏Sometimes, I like to play soccer, basketball, and cricket
 
 👨🏻‍💻 You can find me on [Replit.com](https://replit.com/@JaydenSavarinat) and [GitHub](http://github.com/G0D-Developer)
